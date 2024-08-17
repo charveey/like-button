@@ -20,7 +20,7 @@ window.onload = onLoad;
 
 // === UTILITIES ===
 
-const API_BASE_URL = "http://localhost:3000";
+const API_BASE_URL = "https://like-button-vninkka5.fermyon.app";
 
 function hasAlreadyLikedPost() {
   const postKey = getPostKey();
